@@ -22,7 +22,9 @@
 
 #### **[NiceMod](https://www.curseforge.com/minecraft/mc-mods/nicemod-new-blocks)**:
 
-
+    - All flowersbeds   - All wooden    - Wall Lanterns
+    - Bridge              supports      - Weather cock
+    - Cannon/Mortirer   - Armor Stands  - All other blocks (No Globe)
 
 #### **[ImmersiveWeathering](https://www.curseforge.com/minecraft/mc-mods/immersive-weathering-fabric)**:
 
@@ -30,7 +32,8 @@
 
 #### **[EasyEmeraldTools](https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric)**:
 
-
+    - Ruby Tools & Armor
+    - Steel Tools & Armor
 
 #### **[BetterNether](https://www.curseforge.com/minecraft/mc-mods/betternether)**:
 
